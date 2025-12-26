@@ -1,7 +1,5 @@
 # Introduction to GitHub
 
-# This is Testing Text for Pull Request
-
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey Tirtha-Git!
